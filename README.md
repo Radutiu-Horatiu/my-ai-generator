@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Zero to Hero: Learn Web Development in 2023 with ChatGPT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📝 Course on Udemy at:
 
-## Available Scripts
+### Links
 
-In the project directory, you can run:
+🧑‍💻 ChatGPT: https://chat.openai.com/<br />
+🤖 OpenAI Platform Docs: https://platform.openai.com/<br />
+🖌️ DALL-E website: https://openai.com/product/dall-e-2<br />
+💬 ChatGPT API refference: https://platform.openai.com/docs/api-reference/chat<br />
+🎨 DALL-E API refference: https://platform.openai.com/docs/api-reference/images
 
-### `npm start`
+## Further Learning
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### HTML
+<b>W3Schools</b> (https://www.w3schools.com/html/): W3Schools is a popular online learning platform that provides a comprehensive tutorial on HTML. It covers all the basics of HTML, from tags to attributes, and also includes interactive examples and quizzes to help you practice.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<b>Codecademy</b> (https://www.codecademy.com/learn/learn-html): Codecademy offers a free HTML course that covers the basics of HTML and CSS. It includes interactive exercises and quizzes to help you practice and reinforce your understanding.
 
-### `npm test`
+<b>FreeCodeCamp</b> (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/): FreeCodeCamp is a nonprofit organization that offers a free online curriculum for learning web development, including HTML. It includes interactive challenges and projects that allow you to practice your HTML skills.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<b>MDN Web Docs</b> (https://developer.mozilla.org/en-US/docs/Learn/HTML): MDN Web Docs is a comprehensive resource for learning HTML, CSS, and JavaScript. Its HTML tutorial covers all the basics of HTML and includes interactive examples and exercises to help you practice.
 
-### `npm run build`
+<b>HTML.com</b> (https://html.com/): HTML.com is a website dedicated to teaching HTML. It includes a comprehensive tutorial on HTML, as well as articles and resources on web development.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### CSS
+<b>W3Schools</b> (https://www.w3schools.com/css/): W3Schools also offers a comprehensive tutorial on CSS. It covers all the basics of CSS, including selectors, properties, and values. It includes interactive examples and quizzes to help you practice.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<b>Codecademy</b> (https://www.codecademy.com/learn/learn-css): Codecademy's CSS course covers the basics of CSS and also includes more advanced topics like responsive design and animations. It includes interactive exercises and quizzes to help you practice.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<b>FreeCodeCamp</b> (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/): FreeCodeCamp's CSS curriculum includes interactive challenges and projects that allow you to practice your CSS skills. It covers all the basics of CSS and also includes more advanced topics like responsive design and CSS frameworks.
 
-### `npm run eject`
+<b>MDN Web Docs</b> (https://developer.mozilla.org/en-US/docs/Learn/CSS): MDN Web Docs' CSS tutorial covers all the basics of CSS and also includes more advanced topics like layouts and CSS frameworks. It includes interactive examples and exercises to help you practice.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<b>CSS-Tricks</b> (https://css-tricks.com/): CSS-Tricks is a website dedicated to CSS. It includes tutorials, articles, and resources on all aspects of CSS, from the basics to more advanced topics like animations and frameworks.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### JavaScript
+<b>W3Schools</b> (https://www.w3schools.com/js/default.asp): W3Schools has a comprehensive JavaScript tutorial that covers everything from the basics to more advanced topics like objects and functions. It also includes interactive examples and quizzes to help you practice.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<b>Codecademy</b> (https://www.codecademy.com/learn/introduction-to-javascript): Codecademy's JavaScript course covers the basics of JavaScript, including variables, functions, and control flow. It also includes interactive exercises and quizzes to help you practice.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<b>FreeCodeCamp</b> (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/): FreeCodeCamp's JavaScript curriculum includes interactive challenges and projects that allow you to practice your JavaScript skills. It covers all the basics of JavaScript and also includes more advanced topics like algorithms and data structures.
 
-## Learn More
+<b>MDN Web Docs</b> (https://developer.mozilla.org/en-US/docs/Learn/JavaScript): MDN Web Docs' JavaScript tutorial covers all the basics of JavaScript, including data types, functions, and control flow. It also includes interactive examples and exercises to help you practice.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<b>JavaScript.info</b> (https://javascript.info/): JavaScript.info is a comprehensive JavaScript tutorial that covers all the basics of JavaScript, as well as more advanced topics like asynchronous programming and the DOM. It includes interactive examples and exercises to help you practice.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### React
+<b>React documentation</b> (https://reactjs.org/docs/getting-started.html): The official React documentation is a great place to start learning React. It includes a tutorial that covers the basics of React, as well as more advanced topics like hooks and context.
 
-### Code Splitting
+<b>FreeCodeCamp</b> (https://www.freecodecamp.org/learn/front-end-libraries/react/): FreeCodeCamp's React curriculum includes interactive challenges and projects that allow you to practice your React skills. It covers all the basics of React and also includes more advanced topics like Redux and React Router.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<b>React Tutorial</b> (https://react-tutorial.app/): React Tutorial is a step-by-step tutorial that teaches you how to build a simple React application from scratch. It includes interactive examples and exercises to help you practice.
 
-### Analyzing the Bundle Size
+<b>React Training</b> (https://reacttraining.com/online/react-core-architecture): React Training offers an online course on React that covers all the basics of React, including components, props, and state. It includes interactive exercises and quizzes to help you practice.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<b>React Native</b> (https://reactnative.dev/docs/getting-started): React Native is a framework for building mobile apps with React. The official React Native documentation includes a tutorial that covers the basics of React Native, as well as more advanced topics like animations and navigation.
